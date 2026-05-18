@@ -1,0 +1,47 @@
+{
+  "Account_Type": [
+    "Corporate",
+    "Merchant",
+    "Not Defined",
+    "Retail"
+  ],
+  "Transaction_Type": [
+    "Activation Recharge",
+    "Automatic Recharge",
+    "Merchant Recharge",
+    "Mobile App Recharge",
+    "Monthly Recurrent Charge",
+    "Recharge from APM",
+    "Recharge from IVR",
+    "Recharge iSMS",
+    "RingVoz Website Recharge",
+    "Twixtext Recharge"
+  ],
+  "Merchant": [
+    "Authorize.Net 2 [Nr. 1469355]",
+    "Cash",
+    "Stripe",
+    "Wallet"
+  ],
+  "Transaction_Use": [
+    "Balance Recharge",
+    "Gift Card Recharge",
+    "Internet Nauta Recharge",
+    "Intl Mobile Recharge",
+    "Invoice Payment",
+    "Multiple Recharge",
+    "Plan Payment",
+    "Twixtext Recharge"
+  ],
+  "day_of_week": [
+    "Friday",
+    "Monday",
+    "Saturday",
+    "Sunday",
+    "Thursday",
+    "Tuesday",
+    "Wednesday"
+  ],
+  "_amount_min": 0.0,
+  "_amount_max": 1801.85
+}

@@ -1,0 +1,18 @@
+# Dato crudo demasiado grande para GitHub (120 MB)
+datos/mining_data_clean.arff
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+env/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
+Thumbs.db

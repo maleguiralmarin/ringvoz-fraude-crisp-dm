@@ -1,0 +1,27 @@
+{
+  "mejor_modelo": "RandomForest",
+  "motivo": "Mayor PR-AUC en conjunto de test (clase minoritaria).",
+  "metricas_test": {
+    "RandomForest": {
+      "roc_auc": 0.90794539142819,
+      "pr_auc": 0.012166665600093668,
+      "recall_clase_1": 0.25,
+      "f1_macro": 0.5381943968764984
+    },
+    "XGBoost": {
+      "roc_auc": 0.8448584716720815,
+      "pr_auc": 0.011971760361010046,
+      "recall_clase_1": 0.25,
+      "f1_macro": 0.5239559938189294
+    },
+    "MLP": {
+      "roc_auc": 0.5331567938047977,
+      "pr_auc": 0.00022760885238096498,
+      "recall_clase_1": 0.0,
+      "f1_macro": 0.499955498197677
+    }
+  },
+  "n_registros": 89890,
+  "positivos_clase_1": 17,
+  "variable_objetivo": "is_fraud (clase 1 = positivos en el ARFF de entrenamiento)."
+}
