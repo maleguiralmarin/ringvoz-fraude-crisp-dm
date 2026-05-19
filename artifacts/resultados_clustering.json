@@ -1,0 +1,74 @@
+{
+  "k_optimo": 2,
+  "metricas_por_k": [
+    {
+      "k": 2,
+      "inercia": 398818.28444274364,
+      "silueta": 0.25408919972807054,
+      "davies_bouldin": 1.2732942080883036,
+      "calinski_harabasz": 20863.190111688968
+    },
+    {
+      "k": 3,
+      "inercia": 341442.3163411431,
+      "silueta": 0.21661321126419653,
+      "davies_bouldin": 1.768959675819841,
+      "calinski_harabasz": 19736.707571564828
+    },
+    {
+      "k": 4,
+      "inercia": 304269.38173955656,
+      "silueta": 0.22648409544224624,
+      "davies_bouldin": 1.6015737682442506,
+      "calinski_harabasz": 18425.6250604731
+    },
+    {
+      "k": 5,
+      "inercia": 271592.4870870554,
+      "silueta": 0.22889924956615124,
+      "davies_bouldin": 1.335215703990859,
+      "calinski_harabasz": 18185.36746855681
+    },
+    {
+      "k": 6,
+      "inercia": 249122.3836198181,
+      "silueta": 0.21785769610937686,
+      "davies_bouldin": 1.3783790677030148,
+      "calinski_harabasz": 17481.783415306312
+    },
+    {
+      "k": 7,
+      "inercia": 230225.271669114,
+      "silueta": 0.20661342885097211,
+      "davies_bouldin": 1.3931219706543752,
+      "calinski_harabasz": 16993.359339288192
+    },
+    {
+      "k": 8,
+      "inercia": 215467.60443444247,
+      "silueta": 0.2014013149421279,
+      "davies_bouldin": 1.4028094884802993,
+      "calinski_harabasz": 16442.852937252454
+    },
+    {
+      "k": 9,
+      "inercia": 207676.02911714837,
+      "silueta": 0.199379247369374,
+      "davies_bouldin": 1.4477075810043292,
+      "calinski_harabasz": 15348.44970907933
+    },
+    {
+      "k": 10,
+      "inercia": 197769.33653258215,
+      "silueta": 0.21331241824733166,
+      "davies_bouldin": 1.4067785252197305,
+      "calinski_harabasz": 14826.565846369409
+    }
+  ],
+  "jerarquico_silueta": 0.2518261271466583,
+  "jerarquico_davies_bouldin": 1.2655301312408185,
+  "tam_clusters": {
+    "0": 73683,
+    "1": 16207
+  }
+}
